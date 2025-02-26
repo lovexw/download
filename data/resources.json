@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "《通往比特币之路》",
+            "description": "小吴乐意出品",
+            "link": "https://pan.quark.cn/s/9e3e8d8d7c3b"
+        },
+        {
+            "title": "《巴拉吉预言》",
+            "description": "非常棒的一本书，强烈推荐",
+            "link": "https://pan.quark.cn/s/7a27e1333933"
+        },
+        {
+            "title": "比特币手册(更新24.09.20）",
+            "description": "比特币布道者，详细分享，值得一读",
+            "link": "https://pan.quark.cn/s/d64db1cad783"
+        }
+    ],
+    "videos": [
+        {
+            "title": "视频版-苹果手机用户购买大饼操作",
+            "description": "简单到几乎是手把手教学，技术分享，风险自负",
+            "link": "https://pan.quark.cn/s/b5550739968f"
+        }
+    ],
+    "software": [],
+    "documents": [
+        {
+            "title": "（苹果手机）购买比特币正确的打开方式",
+            "description": "苹果手机购买比特币",
+            "link": "https://pan.quark.cn/s/db44a89e10d2"
+        }
+    ]
+}
